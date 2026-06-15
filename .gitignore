@@ -1,0 +1,18 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente e segredos
+.env
+.env.local
+config/secrets.json
+
+# Dependências
+node_modules/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.cache
